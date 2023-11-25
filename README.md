@@ -26,3 +26,7 @@ I will either approve or suggest improvements on the problem description within 
 -  Write a scientific report for the project
 -  Use visualization to explain better the results and the data
 -  Submit the code and the report to Moodle
+
+## Overall feedback
+Excellent visualisation
+Good job on the recommendation of shortest path.
